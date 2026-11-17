@@ -1,0 +1,4 @@
+CAR RENTAL REPORT
+************************************
+CAR NAME: Toyota Corolla DAILY RATE: R 65.0 NUMBER OF DAYS: 33 TOTAL RENTAL PRICE: R 2466.75
+************************************
